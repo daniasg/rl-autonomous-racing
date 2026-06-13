@@ -1,0 +1,3 @@
+stable-baselines3[extra]
+gymnasium[box2d]
+gymnasium[classic-control]

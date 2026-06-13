@@ -15,6 +15,8 @@ After competing in the **AWS DeepRacer League** — training a reinforcement-lea
 
 During training, average reward improved from roughly **-58 to +121**, showing the agent learning to control the car and follow the track.
 
+The trained model weights are not included here due to file size; run `train_carracing.py` to reproduce them.
+
 ## Run it
 ```bash
 pip install -r requirements.txt
